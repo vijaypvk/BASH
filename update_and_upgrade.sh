@@ -7,3 +7,7 @@ echo "Updating the packages..."
 sudo apt full-upgrade -y
 
 echo "Update and upgrade is completed ...!"
+
+
+
+
