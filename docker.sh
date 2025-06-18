@@ -17,3 +17,5 @@ sudo docker run hello-world
 sudo groupadd docker
 sudo usermod -aG docker $USER
 sudo systemctl enable docker
+
+#wget -O - https://raw.githubusercontent.com/vijaypvk/BASH/65681a1372cc537af25e61bad987a6e02e67037f/docker.sh | bash
